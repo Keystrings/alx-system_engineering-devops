@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -m 751 dir_a
+mkdir -m +x dir_a
